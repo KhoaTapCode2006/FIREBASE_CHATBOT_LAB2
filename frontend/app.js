@@ -1,13 +1,13 @@
 ﻿const BACKEND_URL = "http://127.0.0.1:8000";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDnRaxn55MYFmMOJ4XLeg-N4WfUcYaQLMw",
-  authDomain: "fir-tudtk.firebaseapp.com",
-  projectId: "fir-tudtk",
-  storageBucket: "fir-tudtk.firebasestorage.app",
-  messagingSenderId: "96094022872",
-  appId: "1:96094022872:web:a7063ef6b00cb96051bbad",
-  measurementId: "G-YZRWZZHR7Z"
+  apiKey: "yourapikey",
+  authDomain: "yourauthdomain.firebaseapp.com",
+  projectId: "yourappid",
+  storageBucket: "yourstoragebucket.firebasestorage.app",
+  messagingSenderId: "yourmessagingsenderid",
+  appId: "yourappid",
+  measurementId: "yourmeasurementid"
 };
 
 firebase.initializeApp(firebaseConfig);
